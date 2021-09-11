@@ -1,3 +1,0 @@
-# Multiplik
-
-MVP RETO PLATZI FROM ZERO TO ONE
