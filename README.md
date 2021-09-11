@@ -1,2 +1,0 @@
-# Multiplik
-MVP RETO DE PLATZI 6 SEMANAS
