@@ -1,3 +1,0 @@
-# Multiplik
-
-RETO PLATZI FROME ZERO TO ONE
